@@ -1,0 +1,12 @@
+in this project i have performed a linear regression on the "iris dataset"
+
+here i buid 2 models
+->one by taking only one feature as independent variable and another with taking 3 variables and compare the mean squared error at the end.
+
+---libraries used---
+->numpy
+->pandas
+->sklearn
+
+--------language used-------
+->python programming language
